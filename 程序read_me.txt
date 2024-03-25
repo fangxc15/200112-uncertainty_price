@@ -1,0 +1,7 @@
+通过main文件可以正常生成IEEE5节点和118节点的数据，然后把数据保存在Resultcase5和Resultcase118里，随后可以作图
+
+通过main_Pareto文件，并调用F_find_properIC可以画图，这个结果保存在在Result_Pareto里
+比如IEEE118_V1.mat
+这里也可以直接画图
+
+main_false_agent这里要展现result_choose和谎报的情况
